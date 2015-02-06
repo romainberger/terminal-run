@@ -2,6 +2,8 @@
 
 Attempt at writing a useless game in the terminal.
 
+![Gif gif gif gif](http://www.gfycat.com/OffbeatRipeFirefly)
+
 # How to play
 
     # clone the repo
