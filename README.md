@@ -13,5 +13,11 @@ Attempt at writing a useless game in the terminal.
     # install the dependencies
     $ npm install
 
-    # start the game - jump with 'W'
+    # start the game - press any key to jump
     $ node index.js
+
+# Todo
+
+* improve the level generation
+* start new game when game over
+* store best score
