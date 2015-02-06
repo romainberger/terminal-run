@@ -1,10 +1,10 @@
 {
-  "name": "game",
+  "name": "terminal-run",
   "version": "1.0.0",
-  "description": "",
+  "description": "Useless game in your terminal",
   "main": "game.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Romain Berger <romain@romainberger.com>",
   "license": "MIT",
