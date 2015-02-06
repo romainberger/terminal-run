@@ -2,7 +2,7 @@
 
 Attempt at writing a useless game in the terminal.
 
-![Gif gif gif gif](http://www.gfycat.com/OffbeatRipeFirefly)
+![Gif gif gif gif](http://zippy.gfycat.com/OffbeatRipeFirefly.gif)
 
 # How to play
 
