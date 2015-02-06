@@ -1,0 +1,15 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romain Berger <romain@romainberger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ansi": "^0.3.0",
+    "figlet": "^1.1.0"
+  }
+}
