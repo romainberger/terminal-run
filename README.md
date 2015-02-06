@@ -11,5 +11,5 @@ Attempt at writing a useless game in the terminal.
     # install the dependencies
     $ npm install
 
-    # start the game
+    # start the game - jump with 'W'
     $ node index.js
