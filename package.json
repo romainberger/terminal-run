@@ -7,6 +7,14 @@
     "start": "node index.js"
   },
   "author": "Romain Berger <romain@romainberger.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/romainberger/terminal-run.git"
+  },
+  "bugs": {
+    "email": "romain@romainberger.com",
+    "url": "http://github.com/romainberger/terminal-run/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "ansi": "^0.3.0",
