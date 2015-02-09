@@ -18,6 +18,7 @@ Attempt at writing a useless game in the terminal.
 
 # Todo
 
+* display everything red on fail
 * improve the level generation
 * start new game when game over
 * store best score
