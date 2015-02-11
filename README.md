@@ -22,5 +22,4 @@ To run the game check `index.js`. Every method in the game is public so you can 
 
 # Todo
 
-* start new game when game over
 * store best score
