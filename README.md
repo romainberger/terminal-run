@@ -8,7 +8,7 @@ Attempt at writing a useless game in the terminal.
 
     # clone the repo
     $ git clone https://github.com/romainberger/terminal-run.git
-    $ cd term-game
+    $ cd terminal-run
 
     # install the dependencies
     $ npm install
