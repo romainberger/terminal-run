@@ -2,7 +2,7 @@
 
 Attempt at writing a useless game in the terminal.
 
-![Gif gif gif gif](https://raw.githubusercontent.com/romainberger/terminal-run/terminal-run.gif)
+![Gif gif gif gif](https://raw.githubusercontent.com/romainberger/terminal-run/master/terminal-run.gif)
 
 ## How to play
 
