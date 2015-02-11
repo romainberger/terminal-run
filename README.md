@@ -2,7 +2,7 @@
 
 Attempt at writing a useless game in the terminal.
 
-![Gif gif gif gif](http://zippy.gfycat.com/LongSimpleCock.gif)
+![Gif gif gif gif](http://zippy.gfycat.com/AdorableSorrowfulArthropods.gif)
 
 # How to play
 
@@ -18,6 +18,5 @@ Attempt at writing a useless game in the terminal.
 
 # Todo
 
-* improve the level generation
 * start new game when game over
 * store best score
