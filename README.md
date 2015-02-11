@@ -19,7 +19,3 @@ Attempt at writing a useless game in the terminal.
 ## API
 
 To run the game check `index.js`. Every method in the game is public so you can do whatever you want at any time. Including cheating. Check out `lib/game.js` to see the commented source.
-
-# Todo
-
-* store best score
