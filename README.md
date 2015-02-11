@@ -7,7 +7,7 @@ Attempt at writing a useless game in the terminal.
 # How to play
 
     # clone the repo
-    $ git clone https://github.com/romainberger/yeoman-wordpress.git
+    $ git clone https://github.com/romainberger/terminal-run.git
     $ cd term-game
 
     # install the dependencies
