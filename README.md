@@ -2,7 +2,7 @@
 
 Attempt at writing a useless game in the terminal.
 
-![Gif gif gif gif](http://zippy.gfycat.com/AdorableSorrowfulArthropods.gif)
+![Gif gif gif gif](https://raw.githubusercontent.com/romainberger/terminal-run/terminal-run.gif)
 
 ## How to play
 
